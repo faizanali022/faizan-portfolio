@@ -1,0 +1,70 @@
+[
+  {
+    "keywords": ["hi", "hello", "hey", "good morning", "good evening", "start", "howdy"],
+    "answer": "👋 <strong>Hi there! Welcome to my portfolio.</strong><br><br>I’m <strong>Faizan Ali</strong> — a full‑stack web developer and Software Engineering student at MUST (2023‑2027).<br><br>I build modern, secure, and AI‑ready web solutions for businesses and startups.<br>How can I assist you today? You can ask me about:<br>• My services & technologies<br>• Hiring me on Fiverr / Upwork<br>• My education & experience<br>• Project process & pricing"
+  },
+  {
+    "keywords": ["services", "provide", "what do you do", "offer", "skills", "development services", "stack", "expertise"],
+    "answer": "🚀 <strong>I provide end‑to‑end web development and AI integration services.</strong><br><br><strong>My core services include:</strong><br><ul><li><strong>PHP / Laravel Development</strong> – Custom apps, SaaS, dashboards, secure authentication</li><li><strong>MERN Stack Development</strong> – MongoDB, Express, React, Node.js full‑stack apps</li><li><strong>Node.js Backend APIs</strong> – Scalable REST APIs, microservices, admin panels</li><li><strong>AI Agent Integration</strong> – Chatbots, OpenAI/Gemini integration, workflow automation</li><li><strong>SEO Optimization</strong> – Technical SEO, Core Web Vitals, on‑page & off‑page</li><li><strong>UI/UX Design</strong> – Responsive, modern interfaces using Antigravity & custom CSS</li><li><strong>Website Security</strong> – OWASP‑based hardening, SSL, vulnerability patching</li><li><strong>WordPress Solutions</strong> – Custom themes, SEO plugins, performance tuning</li></ul><a href=\"/services\">👉 View full services & details</a>"
+  },
+  {
+    "keywords": ["technologies", "tech stack", "languages", "frameworks", "laravel", "react", "node", "mern", "php", "mysql", "mongodb", "antigravity"],
+    "answer": "💻 <strong>My technology stack is modern and battle‑tested:</strong><br><br><strong>Frontend:</strong> HTML5, CSS3, JavaScript (ES6+), React.js, Antigravity UI<br><strong>Backend:</strong> PHP (OOP, MVC), Laravel, Node.js, Express.js<br><strong>Databases:</strong> MySQL / MariaDB, MongoDB<br><strong>CMS:</strong> WordPress (theme customization, SEO plugins)<br><strong>Tools:</strong> Git, GitHub, cPanel, VPS, Docker (basics)<br><strong>AI/ML:</strong> OpenAI API, Dialogflow, custom chatbot integration<br><strong>SEO/Security:</strong> Core Web Vitals, Yoast/RankMath, OWASP Top‑10 mitigation<br><br>I also use the <strong>Antigravity framework</strong> for ultra‑fast, responsive UI design.<a href=\"/skills\">👉 See my complete skills & tools</a>"
+  },
+  {
+    "keywords": ["hire", "fiverr", "upwork", "freelance", "order", "work with", "get started", "process", "collaboration", "how to hire"],
+    "answer": "🤝 <strong>I’m available for freelance projects worldwide.</strong><br><br>You can hire me through:<ul><li><strong>Fiverr:</strong> <a href=\"https://fiverr.com/yourprofile\" target=\"_blank\">fiverr.com/yourprofile</a></li><li><strong>Upwork:</strong> <a href=\"https://upwork.com/yourprofile\" target=\"_blank\">upwork.com/yourprofile</a></li><li><strong>Direct Contact:</strong> <a href=\"tel:+923241673184\">+92 324 1673184</a> (WhatsApp)</li></ul><strong>My typical process:</strong><br>1️⃣ Requirements discussion<br>2️⃣ Proposal & milestone planning<br>3️⃣ Development with regular updates<br>4️⃣ Testing & revisions<br>5️⃣ Delivery + post‑launch support<br><br>I always focus on <strong>clean code, SEO, security, and client satisfaction</strong>.<a href=\"/contact\">👉 Let’s discuss your project</a>"
+  },
+  {
+    "keywords": ["price", "cost", "budget", "how much", "charge", "rate", "pricing", "package", "affordable"],
+    "answer": "💰 <strong>My pricing is project‑based and depends on complexity, timeline, and features.</strong><br><br>I offer competitive rates and always provide a <strong>free consultation</strong> to understand your needs.<br><br><strong>Typical ranges (for reference):</strong><br>• Simple business website: $XXX – $XXX<br>• Custom PHP/Laravel app: $XXX – $XXXX<br>• MERN full‑stack project: $XXX – $XXXX<br>• AI chatbot integration: starting at $XXX<br>• SEO audit + optimization: $XXX<br><br>💬 <em>Exact pricing is discussed after requirements. I’m flexible and open to long‑term collaboration.</em><br><a href=\"/contact\">👉 Request a custom quote</a>"
+  },
+  {
+    "keywords": ["experience", "projects", "portfolio", "showcase", "samples", "previous work", "clients", "delivered", "live websites"],
+    "answer": "📁 <strong>I’ve delivered 10+ live websites and web applications for real clients.</strong><br><br>My recent work includes:<ul><li>Business websites (SEO‑optimized, responsive)</li><li>Custom PHP admin dashboards</li><li>MERN stack e‑commerce platforms</li><li>AI‑powered chatbots integrated into existing sites</li><li>WordPress themes with performance tuning</li></ul>I follow best practices: <strong>version control (Git), clean code, security audits, and on‑time delivery</strong>.<br><a href=\"/projects\">👉 Browse my full portfolio</a> or check my <a href=\"https://github.com/faizanali022\" target=\"_blank\">GitHub</a>."
+  },
+  {
+    "keywords": ["education", "university", "must", "study", "software engineering", "student", "degree", "batch", "background", "qualification"],
+    "answer": "🎓 <strong>I’m currently pursuing a Bachelor’s degree in Software Engineering</strong> at <strong>Mirpur University of Science and Technology (MUST)</strong>, batch 2023‑2027.<br><br>My academic background gives me a strong foundation in:<ul><li>Data Structures & Algorithms</li><li>Object‑Oriented Programming</li><li>Database Management Systems</li><li>Web Engineering & Security</li><li>AI & Machine Learning Basics</li></ul>I continuously upgrade my skills through real‑world freelance projects, ensuring I stay up‑to‑date with industry trends.<br><a href=\"/about\">👉 Learn more about me</a>"
+  },
+  {
+    "keywords": ["contact", "whatsapp", "call", "phone", "number", "email", "reach", "available", "availability", "online", "time"],
+    "answer": "📞 <strong>I’m easy to reach and always open for a chat!</strong><br><br><strong>WhatsApp / Phone:</strong> <a href=\"tel:+923241673184\">+92 324 1673184</a><br><strong>GitHub:</strong> <a href=\"https://github.com/faizanali022\" target=\"_blank\">faizanali022</a><br><strong>LinkedIn:</strong> <a href=\"https://www.linkedin.com/in/faizanali\" target=\"_blank\">linkedin.com/in/faizanali</a> (update link)<br><strong>Fiverr & Upwork:</strong> (direct links on <a href=\"/contact\">contact page</a>)<br><br>🕒 <strong>Availability:</strong> I respond within a few hours (usually faster). My timezone is <strong>PKT (GMT+5)</strong>.<br>I’m flexible with working hours to accommodate international clients.<br><a href=\"/contact\">👉 Go to contact page</a>"
+  },
+  {
+    "keywords": ["why you", "choose", "usp", "unique", "benefit", "advantage", "difference", "better", "why hire"],
+    "answer": "🏆 <strong>What sets me apart?</strong><br><br>✅ <strong>Full‑stack expertise</strong> – I handle both frontend & backend, no need for multiple hires.<br>✅ <strong>SEO & security built‑in</strong> – Every project is optimized and hardened from day one.<br>✅ <strong>AI‑ready solutions</strong> – I can integrate modern AI agents to automate your workflows.<br>✅ <strong>Clean, scalable code</strong> – Easy to maintain and extend in the future.<br>✅ <strong>Client‑focused communication</strong> – Regular updates, fast replies, and post‑launch support.<br>✅ <strong>Modern UI with Antigravity</strong> – Beautiful, responsive designs without bloat.<br><br><em>My goal is to make your business grow with technology, not just build another website.</em>"
+  },
+  {
+    "keywords": ["ai", "artificial intelligence", "openai", "chatgpt", "bot", "agent", "automation", "machine learning", "nlp", "dialogflow"],
+    "answer": "🤖 <strong>I specialize in AI agent integration for web applications.</strong><br><br>Services include:<ul><li>Custom chatbots (like this one!) for websites</li><li>OpenAI API integration (GPT‑3.5/4) for content generation, analysis</li><li>Dialogflow / Rasa based conversational agents</li><li>Workflow automation with AI decision‑making</li><li>AI‑powered recommendation systems</li></ul>I can make your business smarter, more efficient, and available 24/7.<br><a href=\"/services\">👉 Explore AI services</a>"
+  },
+  {
+    "keywords": ["seo", "search engine", "ranking", "google", "performance", "speed", "core web vitals", "indexing"],
+    "answer": "📈 <strong>SEO is not an afterthought — it’s part of my development process.</strong><br><br>I implement:<ul><li>Technical SEO (structured data, sitemaps, robots.txt)</li><li>On‑page optimization (meta tags, headings, keywords)</li><li>Core Web Vitals (LCP, FID, CLS) improvements</li><li>Image optimization & lazy loading</li><li>Mobile‑first responsive design</li></ul>This means your site loads fast, ranks higher, and attracts more visitors.<br><a href=\"/services\">👉 Learn about my SEO approach</a>"
+  },
+  {
+    "keywords": ["security", "secure", "protection", "ssl", "https", "vulnerability", "hack", "owasp", "xss", "sql injection"],
+    "answer": "🔒 <strong>I build websites with security as a top priority.</strong><br><br>My security checklist includes:<ul><li>Input sanitization & validation (XSS, SQLi prevention)</li><li>Secure authentication (password hashing, JWT, OAuth)</li><li>HTTPS enforcement & HSTS headers</li><li>CSRF protection & secure session management</li><li>Regular dependency updates & vulnerability scanning</li><li>File upload restrictions & secure file permissions</li></ul>Your business data and your users’ privacy are safe with me.<br><a href=\"/services\">👉 Read about my security services</a>"
+  },
+  {
+    "keywords": ["wordpress", "wp", "woocommerce", "cms", "blog", "theme", "plugin"],
+    "answer": "🧩 <strong>WordPress? Yes, I do that too!</strong><br><br>I offer:<ul><li>Custom theme development & child themes</li><li>Plugin customization & development</li><li>WooCommerce setup & optimization</li><li>SEO & performance tuning (caching, CDN)</li><li>Security hardening & malware removal</li></ul>Whether you need a simple blog or a complex business site, I can make WordPress fast, secure, and tailored to your brand.<br><a href=\"/services\">👉 See WordPress solutions</a>"
+  },
+  {
+    "keywords": ["github", "open source", "code", "repository", "git", "version control"],
+    "answer": "🐙 <strong>Check out my GitHub profile:</strong> <a href=\"https://github.com/faizanali022\" target=\"_blank\">github.com/faizanali022</a><br><br>I actively push code, contribute to open‑source, and use Git for all projects.<br>You’ll find:<ul><li>Personal & freelance project repos</li><li>Code snippets & boilerplates</li><li>Collaborations & learning projects</li></ul>Clean commit history, proper documentation, and modular code — that’s how I work."
+  },
+  {
+    "keywords": ["review", "testimonial", "feedback", "client say", "rating", "recommend"],
+    "answer": "⭐ <strong>Client satisfaction is my biggest achievement.</strong><br><br>Here’s what some clients say:<br><em>“Professional developer with strong technical skills and excellent communication.”</em><br><em>“The website performance and design exceeded expectations.”</em><br><em>“Highly recommended for modern web projects.”</em><br><br>I maintain a 5‑star rating on Fiverr and Upwork, and I’m always focused on delivering quality.<br><a href=\"/#testimonials\">👉 Read more testimonials</a>"
+  },
+  {
+    "keywords": ["message", "direct", "talk", "chat", "discuss", "project idea"],
+    "answer": "💬 <strong>I’d love to hear about your project!</strong><br><br>The fastest way to reach me is via <strong>WhatsApp</strong>: <a href=\"https://wa.me/923241673184\" target=\"_blank\">+92 324 1673184</a><br>Or you can email me / connect on LinkedIn (see <a href=\"/contact\">contact page</a>).<br><br>I’m happy to hop on a quick call to discuss your requirements and provide a free estimate.<br><em>Let’s turn your idea into a powerful digital product!</em>"
+  },
+  {
+    "keywords": ["default"],
+    "answer": "🤔 <strong>I didn’t quite understand that.</strong><br><br>You can ask me about:<ul><li>My <strong>services & technologies</strong></li><li><strong>Hiring me</strong> on Fiverr/Upwork</li><li>My <strong>education & experience</strong></li><li><strong>Pricing & process</strong></li><li><strong>AI integration & SEO</strong></li></ul>Or simply type <strong>“Hi”</strong> to start! 😊<br>If you prefer, you can also <a href=\"/contact\">contact me directly</a>."
+  }
+]
